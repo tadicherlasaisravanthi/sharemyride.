@@ -102,11 +102,11 @@ ul li a:hover{
 }
 
 .btn:focus{
-    outline: none;
+     outline: none;
 }
 
 .srch:focus{
-    outline: none;
+     outline: none;
 
 }
 
